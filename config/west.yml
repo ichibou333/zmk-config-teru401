@@ -10,5 +10,9 @@ manifest:
     - name: zmk
       remote: zmkfirmware
       import: app/west.yml
+    - name: zmk-config-teru401
+      url: https://github.com/ichibou333/zmk-config-teru401
+      revision: main
+      path: modules/zmk-config-teru401
   self:
     path: config

@@ -1,0 +1,6 @@
+if SHIELD_TERU4012
+
+config ZMK_KEYBOARD_NAME
+    default "teru401"
+
+endif # SHIELD_TERU4012
