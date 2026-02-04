@@ -19,5 +19,5 @@
 #
 ---
 include:
-  - board: teru401
+  - board: seeeduino_xiao_ble
     shield: teru4012
